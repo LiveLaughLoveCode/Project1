@@ -13,7 +13,7 @@ The game features a high score counter, which keeps track of the player's highes
 The game controls are simple and intuitive, allowing players of all ages to enjoy the game. More details about the controls will be added soon.
 
 ## Future Updates
-Stay tuned for future updates and improvements to the game. We're always looking to make the game more fun and engaging for our players.
+Stay tuned for future updates and improvements to the game. I'm always looking to make the game more fun and engaging for players.
 
 ## Feedback
 I would appreciate your feedback and suggestions to improve the game. Please feel free to reach out to me with your thoughts.
